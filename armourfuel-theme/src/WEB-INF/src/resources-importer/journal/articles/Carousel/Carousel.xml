@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="Slides" type="text" index-type="keyword" index="0">
+		<dynamic-element name="Title" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Welcome to pluton theme]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Subtitle" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Clean & responsive]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Description" index="0" type="text_box" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Img" index="0" type="document_library" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[[$FILE=Slider01.png$]]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Link" index="0" type="link_to_layout" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="en_US"><![CDATA[Slide1]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Slides" type="text" index-type="keyword" index="1">
+		<dynamic-element name="Title" index="1" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Easy management]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Subtitle" index="1" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Easy to use]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Description" index="1" type="text_box" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Img" index="1" type="document_library" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[[$FILE=Slider01.png$]]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Link" index="1" type="link_to_layout" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="en_US"><![CDATA[Slide 2]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Slides" type="text" index-type="keyword" index="2">
+		<dynamic-element name="Title" index="2" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Revolution]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Subtitle" index="2" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Customizable]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Description" index="2" type="text_box" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Img" index="2" type="document_library" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[[$FILE=Slider01.png$]]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Link" index="2" type="link_to_layout" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="en_US"><![CDATA[Slide 3]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Carousel_Width" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[700]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Carousel_Height" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[240]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Interval_Time" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[2]]></dynamic-content>
+	</dynamic-element>
+</root>

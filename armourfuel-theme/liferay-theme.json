@@ -1,0 +1,11 @@
+{
+  "LiferayTheme": {
+    "deploymentStrategy": "LocalAppServer",
+    "appServerPath": "/Users/andreslara/Desktop/liferay-dxp-7.2.10-ga1/tomcat-9.0.17",
+    "deployPath": "/Users/andreslara/Desktop/liferay-dxp-7.2.10-ga1/deploy",
+    "url": "http://localhost:8080",
+    "appServerPathPlugin": "/Users/andreslara/Desktop/liferay-dxp-7.2.10-ga1/tomcat-9.0.17/webapps/armourfuel-theme",
+    "deployed": true,
+    "pluginName": "armourfuel-theme"
+  }
+}

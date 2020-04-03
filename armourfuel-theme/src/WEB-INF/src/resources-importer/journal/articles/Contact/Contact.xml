@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="Title" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[Contact Us]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Description" type="text_box" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[Duis mollis placerat quam, eget laoreet tellus tempor eu. Quisque dapibus in purus in dignissim.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Google_Map_Latitude" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[9.937145]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Google_Map_Longitude" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[-84.09305]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Google_API" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Form_Title" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[Say Hello]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Form_Action_Url" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[php/mail.php]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Address" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[123 Fifth Avenue, 12th,Belgrade,SRB 11000]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Email" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[ourstudio@somemail.com]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Phone" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[+11 234 567 890]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Facebook_Link" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[https://facebook.com]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Twitter_Link" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[https://twitter.com]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Linked_in_Link" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[https://linkedin.com]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Pinterest_Link" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[https://pinterest.com]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="YouTube_Link" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[https://youtube.com]]></dynamic-content>
+	</dynamic-element>
+</root>

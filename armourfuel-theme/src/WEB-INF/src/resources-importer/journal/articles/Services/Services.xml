@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="Title" type="text" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[What We Do?]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Description" type="text_box" index-type="keyword" index="0">
+		<dynamic-content language-id="en_US"><![CDATA[Duis mollis placerat quam, eget laoreet tellus tempor eu. Quisque dapibus in purus in dignissim.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Service_Image1" type="document_library" index-type="keyword" index="0">
+		<dynamic-element name="Service_Title1" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Modern Design]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Service_Description1" index="0" type="text_box" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[We Create Modern And Clean Theme For Your Business Company.]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="en_US" id="11034"><![CDATA[[$FILE=Service1.png$]]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Service_Image2" type="document_library" index-type="keyword" index="0">
+		<dynamic-element name="Service_Title2" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Powerfull Theme]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Service_Description2" index="0" type="text_box" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[We Create Modern And Powerful Theme With Lots Animation And Features]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="en_US" id="11035"><![CDATA[[$FILE=Service2.png$]]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Service_Image3" type="document_library" index-type="keyword" index="0">
+		<dynamic-element name="Service_Title3" index="0" type="text" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[Clean Code]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="Service_Description3" index="0" type="text_box" index-type="keyword">
+			<dynamic-content language-id="en_US"><![CDATA[We Create Modern And Powerful Html5 And CSS3 Code Easy For Read And Customize.]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="en_US" id="11036"><![CDATA[[$FILE=Service3.png$]]]></dynamic-content>
+	</dynamic-element>
+</root>

@@ -1,0 +1,67 @@
+{
+    "assets": [
+        {
+            "name": "Client1.png"
+        },
+        {
+            "name": "Client2.png"
+        },
+        {
+            "name": "Client3.png"
+        },
+        {
+            "name": "Portfolio01.png"
+        },
+        {
+            "name": "Portfolio02.png"
+        },
+        {
+            "name": "Portfolio03.png"
+        },
+        {
+            "name": "Portfolio04.png"
+        },
+        {
+            "name": "Portfolio05.png"
+        },
+        {
+            "name": "Portfolio06.png"
+        },
+        {
+            "name": "Portfolio07.png"
+        },
+        {
+            "name": "Portfolio08.png"
+        },
+        {
+            "name": "Portfolio09.png"
+        },
+        {
+            "name": "Service1.png"
+        },
+        {
+            "name": "Service2.png"
+        },
+        {
+            "name": "Service3.png"
+        },
+        {
+            "name": "Slider01.png"
+        },
+        {
+            "name": "Slider02.png"
+        },
+        {
+            "name": "Slider03.png"
+        },
+        {
+            "name": "Team1.png"
+        },
+        {
+            "name": "Team2.png"
+        },
+        {
+            "name": "Team3.png"
+        }
+    ]
+}
