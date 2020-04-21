@@ -108,7 +108,7 @@
         </div>
         <div class="about-text centered">
             <h3>About Us</h3>
-            <p>${About_Us.getData()}</p>
+            <div>${About_Us.getData()}</div>
         </div>
     </div>
 </div>

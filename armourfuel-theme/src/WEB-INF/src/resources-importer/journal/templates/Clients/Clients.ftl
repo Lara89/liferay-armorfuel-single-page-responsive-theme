@@ -58,8 +58,8 @@
                     <h3>Our Clients</h3>
                 </div>
                 <ul class="client-nav pull-right">
-                    <li id="client-prev"><a class="prevc" ><i class="icon-chevron-left"></i></a></li>
-                    <li id="client-next"><a class="nextc"><i class="icon-chevron-right"></i></a></li>
+                    <li id="client-prev"><a class="prevc" ><span class="plu-icon-angle-left"></span></a></li>
+                    <li id="client-next"><a class="nextc"><span class="plu-icon-angle-right"></span></a></li>
                 </ul>
             </div>
             
