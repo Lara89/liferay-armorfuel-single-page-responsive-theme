@@ -373,15 +373,22 @@ a.button:hover, a.button:active{
     background: #191a1c;
 }
 .thumbnail a.more {
-    display:block;
-    z-index:4;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: 0 auto;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 100%;
     position:absolute;
-    top:-100px;
-    left:50%;
-    margin:0 auto;
-    margin-left:-41px;
-    width:80px;
-    height:80px;
+    z-index: 4;
     font-size:40px;
     color:#fff;
     text-decoration:none;
@@ -389,8 +396,7 @@ a.button:hover, a.button:active{
     text-align: center;
 }
 .thumbnail:hover a.more {
-    top:40%;
-    margin-top:-40px;
+    top: 0;
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
     -o-transition: all 0.3 s ease-out;
@@ -1037,13 +1043,6 @@ p.plu-info-mail {
     	width: 100%;
     }
     
-    .thumbnail a.more {
-        margin-left:-41px;
-        width:80px;
-        height:80px;
-        border-radius:40px;
-        line-height: 80px;
-    }
 }
 @media (max-width: 979px) {
     body {
@@ -1096,16 +1095,16 @@ p.plu-info-mail {
     //     display:block;
     // }
 
-    .thumbnail a.more {
-        margin-left:-21px;
-        width:40px;
-        height:40px;
-        border-radius:30px;
-        line-height: 40px;
-    }
-    .thumbnail:hover a.more {
-        margin-top:-20px;
-    }
+    // .thumbnail a.more {
+    //     margin-left:-21px;
+    //     width:40px;
+    //     height:40px;
+    //     border-radius:30px;
+    //     line-height: 40px;
+    // }
+    // .thumbnail:hover a.more {
+    //     margin-top:-20px;
+    // }
     
     /*required*/
     .aui .container{

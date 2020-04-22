@@ -59,7 +59,7 @@
                         <div class="thumbnail">
                             <img src="${cur_proj.getData()}" alt="project 1">
                             <a href="#single-project" class="more show_hide" rel="#slidingDiv${count}">
-                                <i class="icon-plus"></i>
+                                <span class="plu-icon-plus"></span>
                             </a>
                             <h3>${cur_proj.Project_Label.getData()}</h3>
                             <p>${cur_proj.Project_Caption.getData()}</p>
