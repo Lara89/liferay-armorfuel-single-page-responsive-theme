@@ -66,7 +66,7 @@
             <div id="owl-demo">
                 <#list Companies.getSiblings() as cur_images>
                     <div class="item">
-                        <a href="${cur_images.Link.getData()}">
+                        <a href="${cur_images.Link.getData()}" target="_blank">
                             <img src="${cur_images.getData()}" alt="${cur_images.Image_Alter.getData()}">
                         </a>
                     </div>

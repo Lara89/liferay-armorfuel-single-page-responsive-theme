@@ -418,8 +418,7 @@
 					"tip": {
 						"en_US": ""
 					},
-					"dataType": "link-to-page",
-					"fieldNamespace": "ddm",
+					"dataType": "string",
 					"indexType": "keyword",
 					"localizable": true,
 					"name": "Link",
@@ -427,7 +426,7 @@
 					"repeatable": false,
 					"required": false,
 					"showLabel": true,
-					"type": "ddm-link-to-page"
+					"type": "text"
 				}
 			]
 		},
