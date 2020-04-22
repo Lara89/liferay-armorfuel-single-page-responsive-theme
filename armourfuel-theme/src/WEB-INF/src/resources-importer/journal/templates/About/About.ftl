@@ -13,21 +13,21 @@
                     <ul class="social">
                         <#if Team1.Show_Facebook_Link1.getData()?has_content>
                         <li>
-                            <a href="">
+                            <a href="${Team1.Job_Description1.Facebook_Link1.getData()}">
                                 <span class="plu-icon-facebook-circled"></span>
                             </a>
                         </li>
                         </#if>
                         <#if Team1.Show_Twitter_Link1.getData()?has_content>
                         <li>
-                            <a href="">
+                            <a href="${Team1.Job_Description1.Twitter_Link1.getData()}">
                                 <span class="plu-icon-twitter-circled"></span>
                             </a>
                         </li>
                         </#if>
                         <#if Team1.Show_Linkedin_Link1.getData()?has_content>
                         <li>
-                            <a href="">
+                            <a href="${Team1.Job_Description1.Linked_in_Link1.getData()}">
                                 <span class="plu-icon-linkedin-circled"></span>
                             </a>
                         </li>
@@ -46,21 +46,21 @@
                     <ul class="social">
                         <#if Team2.Show_Facebook_Link2.getData()?has_content>
                         <li>
-                            <a href="">
+                            <a href="${Team2.Job_Description2.Facebook_Link2.getData()}">
                                 <span class="plu-icon-facebook-circled"></span>
                             </a>
                         </li>
                         </#if>
                         <#if Team2.Show_Twitter_Link2.getData()?has_content>
                         <li>
-                            <a href="">
+                            <a href="${Team2.Job_Description2.Twitter_Link2.getData()}">
                                 <span class="plu-icon-twitter-circled"></span>
                             </a>
                         </li>
                         </#if>
                         <#if Team2.Show_Linkedin_Link2.getData()?has_content>
                         <li>
-                            <a href="">
+                            <a href="${Team2.Job_Description2.Linked_in_Link2.getData()}">
                                 <span class="plu-icon-linkedin-circled"></span>
                             </a>
                         </li>
@@ -79,21 +79,21 @@
                     <ul class="social">
                         <#if Team3.Show_Facebook_Link3.getData()?has_content>
                         <li>
-                            <a href="">
+                            <a href="${Team3.Job_Description3.Facebook_Link3.getData()}">
                                 <span class="plu-icon-facebook-circled"></span>
                             </a>
                         </li>
                         </#if>
                         <#if Team3.Show_Twitter_Link3.getData()?has_content>
                         <li>
-                            <a href="">
+                            <a href="${Team3.Job_Description3.Twitter_Link3.getData()}">
                                 <span class="plu-icon-twitter-circled"></span>
                             </a>
                         </li>
                         </#if>
                         <#if Team3.Show_Linkedin_Link3.getData()?has_content>
                         <li>
-                            <a href="">
+                            <a href="${Team3.Job_Description3.Linked_in_Link3.getData()}">
                                 <span class="plu-icon-linkedin-circled"></span>
                             </a>
                         </li>
