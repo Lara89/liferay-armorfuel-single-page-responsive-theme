@@ -38,12 +38,6 @@ jQuery(document).ready(function ($) {
 // 	//Initialize header slider.
     $('#da-slider').cslider();
 	
-	//Initial mixitup, used for animated filtering portgolio.
-    $('#portfolio-grid').mixitup({
-        'onMixStart': function (config) {
-            $('div.toggleDiv').hide();
-        }
-    });
     
   //Initial Out clients slider in client section
     // $('#client-slider').bxSlider({
@@ -164,7 +158,7 @@ jQuery(document).ready(function ($) {
         });
     };
     
-  //Initial Show/Hide portfolio element.
+    //Initial Show/Hide portfolio element.
     $('div.toggleDiv').hide();
     $('.show_hide').showHide({
         speed: 500,

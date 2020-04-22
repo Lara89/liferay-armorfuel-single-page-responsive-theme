@@ -84,7 +84,6 @@ p {
     text-decoration: none;
     text-transform:uppercase;
     line-height: auto;
-    
     text-transform:uppercase;
     line-height: auto;
     vertical-align: middle;
@@ -105,6 +104,10 @@ p {
     transition: border-color 1s ease;
 }
 .plu-nav-pills {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
     margin-bottom: 30px;
 }
 .plu-nav-pills > li > a {
@@ -113,6 +116,7 @@ p {
     -moz-border-radius: 0;
     border-radius: 0;
     margin-right:5px;
+    margin-bottom:5px;
     padding-left:25px;
     padding-right:25px;
     border: 1px solid #181A1C;
@@ -574,6 +578,9 @@ a.button:hover, a.button:active{
 .project-info {
     font-weight:100;
     padding:10px 0;
+    a {
+        color: #FECE1A;
+    }
 }
 .project-info span {
     width: 80px;
@@ -591,6 +598,10 @@ a.button:hover, a.button:active{
 #portfolio-grid .mix {
     opacity: 0;
     display: none;
+    &.visible {
+        display: inline-block;
+        opacity: 1;
+    }
 }
 /*
 3.3 About

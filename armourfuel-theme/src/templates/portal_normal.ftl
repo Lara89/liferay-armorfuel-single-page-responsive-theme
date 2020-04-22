@@ -71,17 +71,12 @@ AUI().applyConfig({
     modules: {
         'jquery': {
             fullpath: '${javascript_folder}/jquery.min.js'
-        },
-        'jquery-mixitup': {
-            fullpath: '${javascript_folder}/jquery.mixitup.js',
-            requires: ['jquery']
-        }     
+        }    
     }
 });
 </script>
 <script type="text/javascript" src="${javascript_folder}/jquery.min.js"></script>
 <script type="text/javascript" src="${javascript_folder}/jquery.inview.js"></script>
-<script type="text/javascript" src="${javascript_folder}/jquery.mixitup.js"></script>
 <script type="text/javascript" src="${javascript_folder}/modernizr.custom.js"></script>
 <script type="text/javascript" src="${javascript_folder}/jquery.cslider.js"></script>
 <script type="text/javascript" src="${javascript_folder}/jquery.placeholder.js"></script>
